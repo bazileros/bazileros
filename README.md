@@ -24,7 +24,7 @@
 
 <p align="center">
 
-  I'm an 18 y/old high school graduate enrolled at the ALX Software Engineering program 🎓<br>
+  Hello I'm a UJ  Alumni enrolled at the ALX Software Engineering program 🎓<br>
 
  from Johannesburg, South Africa.
 
