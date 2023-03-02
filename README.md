@@ -48,13 +48,13 @@
 
 <!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
 
-<a href="mailto: elvisndungu@icloud.com">
+<a href="mailto: zalisilesithule@gmail.com">
 
  <img src="https://img.shields.io/badge/-elvisndungu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elvisndungu@gicloud.com"/>
 
 </a>
 
- <a href="https://twitter.com/elvisn_">
+ <a href="https://twitter.com/Eros_Devs">
 
  <img src="https://img.shields.io/badge/-elvisn_-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/elvisn_"/>
 
