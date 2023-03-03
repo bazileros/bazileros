@@ -1,8 +1,8 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmbZYhk1WkjhlY7_KR1Y1dgVOZXB-Vr0I5CQ&usqp=CAU)](https://github.com/bazileros)<h1 align="center">Hi 👋, I'm EROS DEVS</h1>
+[![MasterHead](https://images.pexels.com/photos/12840350/pexels-photo-12840350.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)](https://github.com/bazileros)<h1 align="center">Hi 👋, I'm EROS DEVS</h1>
 <h3 align="center">A passionate Software engineering Student from South Africa 🇿🇦</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bazileros&label=Profile%20views&color=00ff00&style=plastic" alt="bazileros" /> </p>
-<img align="right" alt="Coding" width="2000"<img src='https://www.linkpicture.com/q/20230303_103229_0000.png' type='image'></a>
+<img align="right" alt="Coding" width="3000"<img src='https://www.linkpicture.com/q/20230303_103229_0000.png' type='image'></a>
 <p align="left"> <a href="https://twitter.com/eros_devs" target="blank"><img src="https://img.shields.io/twitter/follow/eros_devs?logo=twitter&style=for-the-badge" alt="eros_devs" /></a> </p>
 
 - 🌱 I’m currently learning **Full stack devopment from ALX-AFRICA**
