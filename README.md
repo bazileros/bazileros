@@ -1,4 +1,4 @@
-[![MasterHead](https://images.pexels.com/photos/12840350/pexels-photo-12840350.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)](https://github.com/bazileros)<h1 align="center">Hi 👋, I'm EROS DEVS</h1>
+[![MasterHead](https://images.pexels.com/photos/15790703/pexels-photo-15790703.png?auto=compress&cs=tinysrgb&w=400&lazy=load)](https://github.com/bazileros)<h1 align="center">Hi 👋, I'm EROS DEVS</h1>
 <h3 align="center">A passionate Software engineering Student from South Africa 🇿🇦</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bazileros&label=Profile%20views&color=00ff00&style=plastic" alt="bazileros" /> </p>
