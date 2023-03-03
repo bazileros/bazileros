@@ -29,3 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bazileros&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=05013d&hide_border=true&locale=en" alt="bazileros" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bazileros&theme=dark" alt="bazileros" /></p>
+</h2>
+<p align="center">
+  <img src="https://github.com/elvisndungu/elvisndungu/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
