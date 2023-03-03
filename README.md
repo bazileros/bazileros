@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm EROS DEVS</h1>
+[![MasterHead](https://images.pexels.com/photos/15791540/pexels-photo-15791540.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)](https://github.com/bazileros)<h1 align="center">Hi 👋, I'm EROS DEVS</h1>
 <h3 align="center">A passionate Software engineering Student from South Africa 🇿🇦</h3>
 </h2>
 <p align="center">
