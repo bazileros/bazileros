@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm EROS DEVS</h1>
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmbZYhk1WkjhlY7_KR1Y1dgVOZXB-Vr0I5CQ&usqp=CAU)](https://github.com/bazileros)<h1 align="center">Hi 👋, I'm EROS DEVS</h1>
 <h3 align="center">A passionate Software engineering Student from South Africa 🇿🇦</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bazileros&label=Profile%20views&color=00ff00&style=plastic" alt="bazileros" /> </p>
