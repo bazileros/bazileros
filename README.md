@@ -1,118 +1,31 @@
-<p align="center">
+<h1 align="center">Hi 👋, I'm EROS DEVS</h1>
+<h3 align="center">A passionate Software engineering Student from South Africa 🇿🇦</h3>
 
- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bazileros&label=Profile%20views&color=00ff00&style=plastic" alt="bazileros" /> </p>
+<img align="right" alt="Coding" width="400" src="https://ibb.co/h9BfRH1">
+<p align="left"> <a href="https://twitter.com/eros_devs" target="blank"><img src="https://img.shields.io/twitter/follow/eros_devs?logo=twitter&style=for-the-badge" alt="eros_devs" /></a> </p>
 
-</p align="center">
+- 🌱 I’m currently learning **Full stack devopment from ALX-AFRICA**
 
-<img src="https://github.com/elvisndungu/elvisndungu/blob/main/elvis_banner%20(1).png" />
+- 👨‍💻 All of my projects are available at [https://erosdevs.co.za](https://erosdevs.co.za)
 
-<p align="center">
+- 💬 Ask me about **C, C#**
 
-<a href="https://komarev.com/ghpvc/?username=elvisndungu">
+- 📫 How to reach me **zalisilesithule@gmail.com**
 
- <img src="https://komarev.com/ghpvc/?username=elvisndungu"/>
+- ⚡ Fun fact **Funny, Outgoing**
 
-</a>
-
-<a href="https://github.com/elvisndungu/elvisndungu/stargazers"><img src="https://img.shields.io/github/stars/elvisndungu/elvisndungu?color=ffff00" alt="Stars Badge"/></a> 
-
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/elvisndungu/elvisndungu" alt="Issues Badge"/></a>
-
- </p>
-
- 
-
-<p align="center">
-
-  Hello I'm a UJ  Alumni enrolled at the ALX Software Engineering program 🎓<br>
-
- from Johannesburg, South Africa.
-
-</p> 
-
-<h2 align="center">My Tech Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/eros_devs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eros_devs" height="30" width="40" /></a>
+<a href="https://instagram.com/mindhellabroken1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mindhellabroken1" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-<p align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bazileros&show_icons=true&theme=cobalt&hide_border=true&locale=en&layout=compact" alt="bazileros" /></p>
 
-<!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bazileros&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=05013d&hide_border=true&locale=en" alt="bazileros" /></p>
 
-<a href="mailto: zalisilesithule@gmail.com">
-
- <img src="https://img.shields.io/badge/-elvisndungu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elvisndungu@gicloud.com"/>
-
-</a>
-
- <a href="https://twitter.com/Eros_Devs">
-
- <img src="https://img.shields.io/badge/-elvisn_-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/elvisn_"/>
-
-</a>
-
-</p>
-
-<h2 align="center">
-
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
-
-</h2>
-
-<p align="center">
-
-  <img src="https://github.com/elvisndungu/elvisndungu/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-
-</p>
-
-<h2 align="center">
-
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-
-</h2>
-
- 
-
-<br>
-
-<!-- <p align = "center">
-
-  <img  src = "https://github-readme-stats.vercel.app/api?username=elvisndungu&show_icons=true&theme=radical&line_height=27">
-
-  <img src = "&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
-
-</p> -->
-
-<p align = "center">
-
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=elvisndungu&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-
-</p> 
-
- 
-
-<hr> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bazileros&theme=dark" alt="bazileros" /></p>
