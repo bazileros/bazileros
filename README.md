@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/eros_devs" target="blank"><img src="https://img.shields.io/twitter/follow/eros_devs?logo=twitter&style=for-the-badge" alt="eros_devs" /></a> </p>
 
-- 🌱 I’m currently learning **Full stack devopment from ALX-AFRICA**
+- 🌱 I’m currently learning **Full stack development from ALX-AFRICA**
 
 - 👨‍💻 All of my projects are available at [https://erosdevs.co.za](https://erosdevs.co.za)
 
