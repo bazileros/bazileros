@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bazileros&label=Profile%20visits&color=00ff00&style=flat-square" alt="bazileros" /> </p>
 
-<p align="left"> <a href="https://twitter.com/eros_devs" target="blank"><img src="https://img.shields.io/twitter/follow/eros_devs?logo=twitter&style=for-the-badge" alt="eros_devs" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_bluddd" target="blank"><img src="https://img.shields.io/twitter/follow/eros_devs?logo=twitter&style=for-the-badge" alt="_bluddd" /></a> </p>
 
 - 🌱 I’m currently learning **Full stack development from ALX-AFRICA**
 
