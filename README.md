@@ -1,5 +1,5 @@
 [![MasterHead](https://images.pexels.com/photos/15791540/pexels-photo-15791540.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)](https://github.com/bazileros)<h1 align="center">Hi 👋, I'm EROS DEVS</h1>
-<h3 align="center">I'm a student who has passion in software engineering  🇿🇦</h3>
+<h3 align="center">I'm a student who has passion in software engineering  </h3>
 </h2>
 <p align="center">
   <img src="https://github.com/elvisndungu/elvisndungu/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
@@ -12,9 +12,8 @@
 
 - 🌱 I’m currently learning **Full stack development from ALX-AFRICA**
 
-- 👨‍💻 All of my projects are available at [https://erosdevs.co.za](https://erosdevs.co.za)
 
-- 💬 Ask me about **C, C#**
+- 💬 Ask me about **C, C++, Python, Linux**
 
 - 📫 How to reach me **zalisilesithule@gmail.com**
 
@@ -22,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/eros_devs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eros_devs" height="30" width="40" /></a>
+<a href="https://twitter.com/bluddd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eros_devs" height="30" width="40" /></a>
 <a href="https://instagram.com/mindhellabroken1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mindhellabroken1" height="30" width="40" /></a>
 </p>
 
