@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/bazileros">
-    <img src="https://github.com/bazileros/bazileros/blob/main/assets/20230728_103654.png" alt="Zalisile Stuli" /></a>
+    <img src="https://github.com/bazileros/bazileros/blob/main/assets/picture.png" alt="Zalisile Stuli" /></a>
 </p>
 
 <p align="center">
