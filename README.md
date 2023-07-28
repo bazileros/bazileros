@@ -24,7 +24,7 @@
 
 <br/>
 
-[![MasterHead](https://images.pexels.com/photos/15791540/pexels-photo-15791540.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)](https://github.com/bazileros)<h1 align="center">Hi 👋, I'm EROS DEVS</h1>
+[![MasterHead](https://th.bing.com/th/id/R.f1e734f9cade86fe737a9aa404ad5677?rik=QdksIkqekD8DOQ&pid=ImgRaw&r=0)](https://github.com/bazileros)<h1 align="center">Hi 👋, I'm EROS DEVS</h1>
 <h3 align="center">I'm a student who has passion in software engineering  </h3>
 </h2>
 <p align="center">
