@@ -23,8 +23,12 @@
 </p>
 
 <br/>
+<div style="display: flex; justify-content: center;">
+  <a href="https://github.com/bazileros">
+    <img src="https://th.bing.com/th/id/R.f1e734f9cade86fe737a9aa404ad5677?rik=QdksIkqekD8DOQ&pid=ImgRaw&r=0" alt="MasterHead">
+  </a>
+</div>
 
-[![MasterHead](https://th.bing.com/th/id/R.f1e734f9cade86fe737a9aa404ad5677?rik=QdksIkqekD8DOQ&pid=ImgRaw&r=0)](https://github.com/bazileros)
 <p align="center">
   <img src="https://github.com/elvisndungu/elvisndungu/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
