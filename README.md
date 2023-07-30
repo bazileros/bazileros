@@ -6,7 +6,7 @@
 <p align="center">
   <!-- Typing SVG by bazileros - https://github.com/bazileros/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Web%20and%20App%20developer;Experienced%20in%20C%2FCpp%20and Python;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=480&height=48&color=f75c7e&vCenter=true&pause=1000&size=20" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Web%20and%20App%20developer;Experienced%20in%20C%2FCpp%20and Python;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=480&height=48&color=FF00FF&vCenter=true&pause=1000&size=20" /></a>
 </p>
 
 <!-- Social icons section -->
@@ -36,9 +36,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bazileros&label=Profile%20visits&color=00ff00&style=flat-square" alt="bazileros" /> </p>
 
 
-<p align="center">
+<p align="center" style="color: #FF00FF>
   🌱 I’m currently learning <strong>Full stack development from ALX-AFRICA</strong><br>
-  💬 Ask me about <code>C, C++, Python, Linux</code><br>
+  💬 Ask me about <strong><code>C, C++, Python, Linux</code></strong><br>
   📫 How to reach me <strong>zalisilesithule@gmail.com</strong>
 </p>
 
