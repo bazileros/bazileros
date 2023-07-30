@@ -28,17 +28,13 @@
 <p align="center">
   <img src="https://github.com/elvisndungu/elvisndungu/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
-
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bazileros&label=Profile%20visits&color=00ff00&style=flat-square" alt="bazileros" /> </p>
 
-<p align="center"> <a href="https://twitter.com/_bluddd" target="blank"><img src="https://img.shields.io/twitter/follow/_bluddd?logo=twitter&style=for-the-badge" alt="_bluddd" /></a> </p>
 
-<p align="center">🌱 I’m currently learning **Full stack development from ALX-AFRICA**</p>
-<p align="center"> 💬 Ask me about ```
-C, C++, Python, Linux ``` </p>
-
-<p> 📫 How to reach me **zalisilesithule@gmail.com** </p>
+🌱 I’m currently learning **Full stack development from ALX-AFRICA**
+align="center"> 💬 Ask me about ```
+C, C++, Python, Linux ```
+📫 How to reach me **zalisilesithule@gmail.com**
 
 
 
