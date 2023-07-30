@@ -36,10 +36,12 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bazileros&label=Profile%20visits&color=00ff00&style=flat-square" alt="bazileros" /> </p>
 
 
-- 🌱 I’m currently learning **Full stack development from ALX-AFRICA**
-- 💬 Ask me about ```
-C, C++, Python, Linux ```
-- 📫 How to reach me **zalisilesithule@gmail.com**
+<p align="center">
+  🌱 I’m currently learning <strong>Full stack development from ALX-AFRICA</strong><br>
+  💬 Ask me about <code>C, C++, Python, Linux</code><br>
+  📫 How to reach me <strong>zalisilesithule@gmail.com</strong>
+</p>
+
 
 
 
