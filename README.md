@@ -36,7 +36,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bazileros&label=Profile%20visits&color=00ff00&style=flat-square" alt="bazileros" /> </p>
 
 
-<p align="center" style="color: #FF00FF>
+<p align="center" style="color: #FF00FF;">
   🌱 I’m currently learning <strong>Full stack development from ALX-AFRICA</strong><br>
   💬 Ask me about <strong><code>C, C++, Python, Linux</code></strong><br>
   📫 How to reach me <strong>zalisilesithule@gmail.com</strong>
