@@ -33,7 +33,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bazileros&label=Profile%20visits&color=00ff00&style=flat-square" alt="bazileros" /> </p>
 
 <p align="center"> <a href="https://twitter.com/_bluddd" target="blank"><img src="https://img.shields.io/twitter/follow/_bluddd?logo=twitter&style=for-the-badge" alt="_bluddd" /></a> </p>
-
+<p>
 - 🌱 I’m currently learning **Full stack development from ALX-AFRICA**
 
 
@@ -41,6 +41,7 @@
 C, C++, Python, Linux ```
 
 - 📫 How to reach me **zalisilesithule@gmail.com**
+  </p>
 
 
 
