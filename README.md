@@ -9,6 +9,21 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Web%20and%20App%20developer;Experienced%20in%20C%2FCpp%20and Python;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=480&height=48&color=FF00FF&vCenter=true&pause=1000&size=20" /></a>
 </p>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 <!-- Social icons section -->
 
   <p align="center"><a href="https://twitter.com/_bluddd"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
