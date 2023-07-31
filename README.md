@@ -29,14 +29,7 @@
   </a>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-<p align="center">
-  <img src="https://github.com/elvisndungu/elvisndungu/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bazileros&label=Profile%20visits&color=FF00FF&style=flat-square" alt="bazileros" /> </p>
 
 
