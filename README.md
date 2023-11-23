@@ -24,11 +24,12 @@
 
 <br/>
 <div class="centered-image">
+  <p align="center">
   <a href="https://github.com/bazileros">
-    <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="MasterHead">
+    <img width="800px" height="300px" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="MasterHead">
   </a>
+  </p>
 </div>
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 
 <picture>
   <source
@@ -45,9 +46,9 @@
   />
 </picture>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bazileros&label=Profile%20visits&color=FF00FF&style=flat-square" alt="bazileros" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bazileros&label=Profile%20visits&color=C4A7E7&style=flat-square" alt="bazileros" /> </p>
 
-<p align="center" style="color: #FF00FF;">
+<p align="center" style="color: #C4A7E7;">
   ?Œ± Iâ€™m currently learning <strong>Full stack development from ALX-AFRICA</strong><br>
   ?’¬ Ask me about <strong><code>C, C++, Python, Linux</code></strong><br>
   ?“« How to reach me <strong>zalisilesithule@gmail.com</strong>
