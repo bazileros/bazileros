@@ -46,11 +46,11 @@
   />
 </picture>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bazileros&label=Profile%20visits&color=FF00FF&style=flat-square" alt="bazileros" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bazileros&label=Profile%20Visits&color=#C4A7E7&style=flat-square" alt="bazileros" /> </p>
 
-<p align="center" style="color: #FF00FF;">
-  ?Œ± Iâ€™m currently learning <strong>Full stack development from ALX-AFRICA</strong><br>
-  ?’¬ Ask me about <strong><code>C, C++, Python, Linux</code></strong><br>
+<p align="center" style="color: #C4A7E7;">
+  ?Œ± Iâ€™m currently learning <strong>Software Engineering from ALX-AFRICA</strong><br>
+  ?’¬ Ask me about <strong><code>C, Golang, Python, Linux</code></strong><br>
   ?“« How to reach me <strong>zalisilesithule@gmail.com</strong>
 </p>
 
