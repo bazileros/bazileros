@@ -46,7 +46,7 @@
   />
 </picture>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bazileros&label=Profile%20Visits&color=#FF00FF&style=flat-square" alt="bazileros" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bazileros&label=Profile%20visits&color=#FF00FF&style=flat-square" alt="bazileros" /> </p>
 
 <p align="center" style="color: #FF00FF;">
   I'm currently learning <strong>Software Engineering from ALX-AFRICA</strong><br>
