@@ -26,7 +26,7 @@
 <div class="centered-image">
   <p align="center">
   <a href="https://github.com/bazileros">
-    <img width="800px" height="300px" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47zv88coi0qr930kos9x8e944e3qhno2ixuq9m1h4u&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="MasterHead">
+    <img width="800px" height="500px" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47zv88coi0qr930kos9x8e944e3qhno2ixuq9m1h4u&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="MasterHead">
   </a>
   </p>
 </div>
