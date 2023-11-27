@@ -62,7 +62,7 @@
 
 <p align="center"><img width="100%" height="100%" "align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bazileros&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="bazileros" /></p>
 
-<p align="center">&nbsp;<img width="100%" height="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=bazileros&show_icons=true&theme=tokyonight&locale=en" alt="bazileros" /></p>
+<p align="center">&nbsp;<img width="100%" height="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=bazileros&show_icons=true&theme=tokyonight&hide_border=trie&locale=en" alt="bazileros" /></p>
 
 <p align=center><img width="100%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=bazileros&theme=dark" alt="bazileros" /></p>
 </details>
