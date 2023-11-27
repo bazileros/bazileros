@@ -46,7 +46,7 @@
   />
 </picture>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bazileros&label=Profile%20visits&color=C4A7E7&style=flat-square" alt="bazileros" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bazileros&label=Profile%20visits&color=1E1C1A&style=flat-square" alt="bazileros" /> </p>
 <br><hr>
 
 <p align="center"> Versatile <code>Software Engineer</code> proficient in <strong><code>Revel, fiber, Django, flask</code></strong>, known for delivering innovative solutions. With a solid background in <strong>Full-Stack development</strong>, I actively participate in the GitHub community, embracing collaboration and continuous improvement in software development.</p>
