@@ -29,7 +29,7 @@
     <img width="800px" height="500px" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47zv88coi0qr930kos9x8e944e3qhno2ixuq9m1h4u&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="MasterHead">
   </a>
   </p>
-</div>
+</div><hr>
 
 <picture>
   <source
@@ -51,7 +51,7 @@
 
 <p align="center"> Versatile <code>Software Engineer</code> proficient in <strong><code>Revel, fiber, Django, flask</code></strong>, known for delivering innovative solutions. With a solid background in <strong>Full-Stack development</strong>, I actively participate in the GitHub community, embracing collaboration and continuous improvement in software development.</p>
   <p align="center"> How to reach me <strong>zalisilesithule@gmail.com</strong>
-</p>
+</p><hr>
 
 <details>
 <summary align="center"><h1 align="center">Languages and Tools:</h1></summary> 
@@ -60,9 +60,9 @@
 <details> 
   <summary align="center"><h1 align="center"> Github Stats</h1></summary>
 
-<p align="center"><img width="100%" height="100%" "align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bazileros&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="bazileros" /></p>
+<p align="center"><img width="100%" height="100%" "align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bazileros&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="bazileros" /></p><hr>
 
-<p align="center">&nbsp;<img width="100%" height="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=bazileros&show_icons=true&theme=tokyonight&hide_border=trie&locale=en" alt="bazileros" /></p>
+<p align="center">&nbsp;<img width="100%" height="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=bazileros&show_icons=true&theme=tokyonight&hide_border=trie&locale=en&layout=compact" alt="bazileros" /></p><hr>
 
 <p align=center><img width="100%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=bazileros&theme=dark" alt="bazileros" /></p>
 </details>
