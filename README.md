@@ -48,9 +48,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bazileros&label=Profile%20visits&color=C4A7E7&style=flat-square" alt="bazileros" /> </p>
 
-<p align="center" style="color: #C4A7E7;">I âm currently learning <strong>Full stack development from ALX-AFRICA</strong><br>
+<p align="center" style="color: #C4A7E7;">I âm currently learning <strong>Full stack development from ALX-AFRICA</strong><br><hr>
 
-<p align center="center"> Versatile `software` engineer proficient in Revel, fiber, Django & flask, known for delivering innovative solutions. With a solid background in Full-Stack development, I actively participate in the GitHub community, embracing collaboration and continuous improvement in software development.</p>
+<p align center="center"> Versatile <code>Software Engineer</code> proficient in <strong><code>Revel, fiber, Django, flask</code></strong>, known for delivering innovative solutions. With a solid background in <strong>Full-Stack development</strong>, I actively participate in the GitHub community, embracing collaboration and continuous improvement in software development.</p>
    Ask me about <strong><code>C, C++, Python, Linux</code></strong><br>
    How to reach me <strong>zalisilesithule@gmail.com</strong>
 </p>
