@@ -60,7 +60,7 @@
 <details> 
   <summary align="center"><h1 align="center"> Github Stats and Activity</h1></summary>
 
-<p align="center"><img width="100%" height="100%" "align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bazileros&show_icons=true&theme=cobalt&hide_border=true&locale=en&layout=compact" alt="bazileros" /></p>
+<p align="center"><img width="100%" height="100%" "align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bazileros&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="bazileros" /></p>
 
 <p align="center"> <img width="100%" height="100%" src="https://github-readme-stats.vercel.app/api?username=bazileros&show_icons=true&title_color=000000&text_color=ffffff&bg_color=05013d&hide_border=true&locale=en" alt="bazileros" /></p>
 
