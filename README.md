@@ -50,7 +50,6 @@
 <br><hr>
 
 <p align="center"> Versatile <code>Software Engineer</code> proficient in <strong><code>Revel, fiber, Django, flask</code></strong>, known for delivering innovative solutions. With a solid background in <strong>Full-Stack development</strong>, I actively participate in the GitHub community, embracing collaboration and continuous improvement in software development.</p>
-   Ask me about <strong><code>C, C++, Python, Linux</code></strong><br>
   <p align="center"> How to reach me [Email](mailto:zalisilesithule@gmail.com)
 </p>
 
