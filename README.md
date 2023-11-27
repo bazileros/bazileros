@@ -50,7 +50,7 @@
 <br><hr>
 
 <p align="center"> Versatile <code>Software Engineer</code> proficient in <strong><code>Revel, fiber, Django, flask</code></strong>, known for delivering innovative solutions. With a solid background in <strong>Full-Stack development</strong>, I actively participate in the GitHub community, embracing collaboration and continuous improvement in software development.</p>
-  <p align="center"> How to reach me [Email](mailto:zalisilesithule@gmail.com)
+  <p align="center"> How to reach me <strong>zalisilesithule@gmail.com</strong>
 </p>
 
 <details>
@@ -62,7 +62,7 @@
 
 <p align="center"><img width="100%" height="100%" "align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bazileros&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="bazileros" /></p>
 
-<p align="center"> <img width="100%" height="100%" src="https://github-readme-stats.vercel.app/api?username=bazileros&show_icons=true&title_color=000000&text_color=ffffff&bg_color=05013d&hide_border=true&locale=en" alt="bazileros" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bazileros&show_icons=true&theme=tokyonight&locale=en" alt="bazileros" /></p>
 
 <p align=center><img width="100%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=bazileros&theme=dark" alt="bazileros" /></p>
 </details>
