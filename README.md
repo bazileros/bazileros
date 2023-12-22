@@ -45,7 +45,7 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
+[![committers.top badge](https://user-badge.committers.top/south_africa/bazileros.svg)](https://user-badge.committers.top/south_africa/bazileros)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bazileros&label=Profile%20visits&color=003140&style=flat-square" alt="bazileros" /> </p>
 <br><hr>
 
